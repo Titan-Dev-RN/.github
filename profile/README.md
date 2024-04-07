@@ -10,6 +10,9 @@ A Titan busca respeitar o cliente e desenvolver junto com nosso time de desenvol
 - Blog
 - Site institucional
 - Landing Pages
+- Apps
+- Social Media
+- Design
 
 ## Projetos
 ** Coming soon... **
