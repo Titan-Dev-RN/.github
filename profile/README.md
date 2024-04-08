@@ -1,4 +1,4 @@
-# Titan Development
+# Titan Development RN
 Seja bem-vindo ao perfil da Titan Development, somos uma empresa de desenvolvimento de software e soluções. Formada por alunos da faculdade de computação da faculdade da Universidade do Estado do Rio Grande do Norte.
 
 ## Política da Titan
