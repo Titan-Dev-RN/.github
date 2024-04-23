@@ -13,6 +13,15 @@ A Titan busca respeitar o cliente e desenvolver junto com nosso time de desenvol
 - Apps
 - Social Media
 - Design
+- Extração, Tratamento e Ingestão de Dados (Web Scraping/Crawling)
+
+# Tecnologias
+- HTML, CSS
+- JavaScript, React, Express, Angular, React Native, 
+- Python, Flask, bs4, Pandas, Selenium
+- Java
+- Google Cloud Platform
+- Firebase
 
 ## Projetos
 ** Coming soon... **
