@@ -22,6 +22,8 @@ A Titan busca respeitar o cliente e desenvolver junto com nosso time de desenvol
 - Java
 - Google Cloud Platform
 - Firebase
+- Figma
+- Adobe Photoshop
 
 ## Projetos
 ** Coming soon... **
