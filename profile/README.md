@@ -26,7 +26,7 @@ A Titan busca respeitar o cliente e desenvolver junto com nosso time de desenvol
 - Adobe Photoshop
 
 ## Projetos
-** Coming soon... **
+- 🌐 [Dávida Oliveira - Blog & Site Institucional](https://davidaoliveira.kesug.com)
 
 ## Contatos
 Para que possa entrar em contato conosco acesse nossos meios de comunicação
