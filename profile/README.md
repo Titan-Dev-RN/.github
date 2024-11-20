@@ -8,6 +8,7 @@ A Titan busca respeitar o cliente e desenvolver junto com nosso time de desenvol
 - Chatbot
 - E-Commerce
 - Blog
+- Extensões de navegador
 - Site institucional
 - Landing Pages
 - Apps
